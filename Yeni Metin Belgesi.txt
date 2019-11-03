@@ -1,2 +1,10 @@
 deneme dosyası...
 master branch
+satır 1 
+satır 2
+
+
+
+
+satır 5
+satır 6
