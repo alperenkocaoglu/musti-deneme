@@ -6,6 +6,6 @@ satır 2
 
 
 
-satır 5
+satır 5-2
 satır 6
 satır 7
